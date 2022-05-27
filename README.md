@@ -6,10 +6,15 @@
 - CSS
 - HTML
 
-## Como executar
+## Requisitos
 - Navegador Web
 - VsCode
 - Extensão LiveServer no VsCode
+
+## Como executar
+- Baixar os arquivos do projeto
+- Abri-lo no VsCode
+- Com a extensão LiveServer abrir o arquivo index.html
 
 ## Entregas
 - Entrega 01: 27/05
