@@ -2,7 +2,7 @@
   
 ## Portifólio pessoal voltado para desenvolvimento do projeto da disciplina de Programação Web com acompanhamento do professor Rennan Jose da UFOPA
 
-## Tecnologias Utilizdas
+## Tecnologias Utilizadas
 - CSS
 - HTML
 
